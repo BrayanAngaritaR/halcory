@@ -1,0 +1,9 @@
+.check-list__item {
+	padding: 0 0 10px 41px;
+	position: relative;
+	font: 16px/170% Roboto,sans-serif;
+}
+
+.first-screen__title, .text-transform-none {
+	text-transform: none;
+}
